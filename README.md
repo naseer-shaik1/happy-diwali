@@ -1,1 +1,1 @@
-happy diwali sample project
+happy diwali sample practice project
